@@ -11,7 +11,7 @@ function calcBMI(){
 	
 	} else if (bmi>= 18.5 && bmi<= 24.9){
 
-		window.alert("Your BMI is " + roundBMI + ". Your current BMI is the recommended BMI for your weight and height. Good Job!.");
+		window.alert("Your BMI is " + roundBMI + ". Your current BMI is the recommended BMI for your weight and height. Good Job!");
 	
 	} else if (bmi>=25 && bmi<= 29.9){
 
